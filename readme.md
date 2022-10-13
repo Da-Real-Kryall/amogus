@@ -18,3 +18,7 @@ cargo run --release
 This is designed for use in a thumb drive alongside an `autorun.inf` file to run the compiled executable upon being plugged in.
 
 Another thing; the executable actually has the audio and gif files bundled inside of it, so it can be run without the need for the files to be present in the same directory.
+
+---
+
+![saul.gif](bettercallsaul.gif)
