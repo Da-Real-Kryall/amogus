@@ -2,6 +2,8 @@
 A "virus" that replaces the screen with the "better call saul" gif, whilst playing the Breaking Bad theme song.
 One of my irl friends whom will remain undisclosed requested that I make this.
 
+Surprisingly, this is compatible with Linux, MacOS and Windows.
+
 ## How to use:
 1. Clone this repository to a directory, and open said directory in a terminal/cmd window.
 ```bash
